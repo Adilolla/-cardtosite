@@ -74,5 +74,5 @@
 <hr/>
 
 <div align="center">
-  <i>“Your business card becomes a website — instantly.”</i>
+ 
 </div>
